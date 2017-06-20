@@ -4,12 +4,12 @@
 ---
 ### 概述
 结合Core ML, 你可以集成训练机器学习模型到你的app里面.
-![Alt text](./c35ebf2d-ee94-4448-8fae-16420e7cc4ed.png)
+![Alt text](https://docs-assets.developer.apple.com/published/72e22672fd/c35ebf2d-ee94-4448-8fae-16420e7cc4ed.png)
 
 训练模型是将机器学习算法应用于一组训练数据的结果. 该模型基于新的输入数据进行预测. 例如, 根据某个地区的历史房价进行训练的模型, 可能能够在给予卧室和浴室的数量时预测房子的价格.
 
 Core ML是特定领域的基础框架和功能库. Core ML支持视觉图像分析, 基础的自然语言处理(例如,  NSLinguisticTagger 类) 以及 GameplayKit 评估学习决策树. Core ML本身建立在诸如:  Accelerate 和 BNNS 以及 Metal Performance Shaders之类的底层库之上.
-![Alt text](./db81e861-1e06-4d14-8915-90707d9b114c.png)
+![Alt text](https://docs-assets.developer.apple.com/published/bc34b3e6c2/db81e861-1e06-4d14-8915-90707d9b114c.png)
 
 Core ML针对设备性能进行了优化, 最大限度地减少了内存占用和功耗. 严格按照设备运行确保用户数据的隐私, 并确保您的应用程序在网络连接不可用时保持功能和响应.
 
