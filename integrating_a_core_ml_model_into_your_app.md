@@ -127,9 +127,3 @@ XCode将Core ML 模型编译成为经过优化的，并且可以在设备上运�
 [获取一个Core ML模型](https://developer.apple.com/documentation/coreml/getting_a_core_ml_model)
 
 - 获取一个Core ML模型在你的应用程序里面使用它
-
-
-
-
-
-#### 
