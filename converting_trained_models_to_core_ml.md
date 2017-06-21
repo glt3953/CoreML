@@ -23,26 +23,13 @@
 
 
 |  模型类型  |  支持的模型  |  支持的工具  |
-
- | :----:   | :----: | :----: |
-
+| :----:   | :----: | :----: |
 | Neural networks（神经网络）|	Feedforward（正反馈）,convolutional（卷积）,recurrent（回归）| Caffe  Keras 1.2.2 |
-
-
 | Tree ensembles（集成树）| Random forests（随机森林）,boosted trees（提升树）,decision trees（决策树） | scikit-learn 0.18 XGBoost 0.6 | 
-
-
 | Support vector machines（支持向量机） |  Scalar regression（梯度回归）,multiclass classification（多类分类） | scikit-learn 0.18 LIBSVM 3.22 |
-
-
 | Generalized linear models（广义线性模型） |  Linear regression（线性回归）,logistic regression（逻辑回归） |  scikit-learn 0.18 |
-
-
 | Feature engineering（特征工程） |  Sparse vectorization（稀疏向量矢量化）,dense vectorization（稠密向量矢量化）, categorical processing（分类处理）|  scikit-learn 0.18 |
-
-
 | Pipeline models（管道模型） | Sequentially chained models（顺序链模型）|  scikit-learn 0.18 |
-
 
 
 ### 转换模型
